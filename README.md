@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/maria-fernanda-gon%C3%A7alves-94092b234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ### Olá eu sou a Maria, e aqui está algumas informações do meu perfil!
+  #E aqui estão meus Projetos
 <div align="center">
   <https://github.com/nandinhaaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandinhaaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
