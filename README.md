@@ -1,6 +1,6 @@
 # Oiii eu sou a Nanda, estudante de programação e tecnologia! 💛
 
-### Atualmente estou no 7 periodo de sistemas de Informação
+### Atualmente estou no 8° periodo de sistemas de Informação
 
 <div style="display: inline_block"><br>
 
