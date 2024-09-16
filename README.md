@@ -1,4 +1,4 @@
-# Oiii eu sou a Nanda, estudante de programação e tecnologia! 💛
+# Oiii eu sou a Nanda, estudante de programação e tecnologia! 👩🏻‍💻
 
 ### Atualmente estou no 8° periodo de sistemas de Informação
 
