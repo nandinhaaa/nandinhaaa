@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A27F7&width=435&lines=Oii%2C+eu+sou+a+Nanda!++;Estudante+de+programa%C3%A7%C3%A3o!+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-### 👋 Olá! Atualmente estou no 8º período de Sistemas de Informação!
+### 👋 Atualmente estou no 8º período de Sistemas de Informação!
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
