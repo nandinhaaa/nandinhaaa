@@ -1,18 +1,20 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A27F7&width=435&lines=Oii%2C+eu+sou+a+Nanda!++;Estudante+de+programa%C3%A7%C3%A3o!+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-### 👋 Formada em Sistemas de Informação
-#### ☁ Atualmente estudando Cloud 
+### 👋 Formada em Sistemas de Informação  
+#### ☁ Atualmente estudando Cloud  
+
 <div style="display: flex; flex-direction: column; align-items: center;">
 
   <div style="display: flex; gap: 10px;">
-    <!-- Ajuste a largura para que fiquem mais próximos -->
     <a href="https://github.com/nandinhaaa">
-      <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nandinhaaa&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+      <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=nandinhaaa&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github.com/nandinhaaa">
-      <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinhaaa&layout=compact&langs_count=7&theme=buefy"/>
+      <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinhaaa&layout=compact&langs_count=10&theme=buefy"/>
     </a>
   </div>
+
+</div>
 
   <br>
 
