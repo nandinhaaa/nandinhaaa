@@ -9,7 +9,7 @@
 <p>
 
   # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A27F7&width=435&lines=Oii%2C+eu+sou+a+Nanda!++;Estudante+de+programa%C3%A7%C3%A3o!+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-  Olá 👋, eu sou a Nanda! Bem-vindo ao meu perfil! Amo tecnologia!!
+  Olá 👋, eu sou a Nanda! Bem-vindo ao meu perfil!
 
   - 🌱 Atualmente estou estudando Cloud e Ciência de Dados.  
   - 🔭 Estou em busca da minha primeira oportunidade de trabalho na área de tecnologia, com interesse em Cloud e Ciência de Dados.
